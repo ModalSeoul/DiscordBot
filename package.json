@@ -1,0 +1,16 @@
+{
+  "name": "discord-wilt",
+  "version": "1.0.0",
+  "description": "Discord bot for Wilt.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^10.0.1",
+    "eris": "^0.5.1",
+    "request": "*"
+  }
+}
